@@ -1,4 +1,4 @@
-5def calculator():
+def calculator():
     print("Welcome to the basic calculator!")
     print("1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n5. Exit")
 
